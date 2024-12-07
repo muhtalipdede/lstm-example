@@ -2,7 +2,7 @@
 
 This is an example of a LSTM model using the Keras library. The model is trained with the data from the file `data.csv` and then it is used to predict the next value in the sequence.
 
-[!USD/TRY](usd_try.png)
+![USD/TRY](usd_try.png)
 
 ## Create a virtual environment
 ```bash
